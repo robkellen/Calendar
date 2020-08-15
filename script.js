@@ -61,7 +61,7 @@ $(document).ready(function () {
   setInterval(function () {
     updateColors();
   }, 300000);
-
+  //setting data to local storage so events that are entered are stored after page refresh until the user deletes them
   var saveEntryBtn = $(".saveBtn");
   saveEntryBtn.on("click", function () {
     let eventId = $(this).attr("id");

@@ -1,6 +1,14 @@
 # Scheduler
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+This project is a simple calendar application that allows the user to save events for each hour of the day. 
+
+## Languages & Framework
+
+This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+## Screenshot of functioning App
+
+[![Screen-Shot-2020-08-22-at-11-58-51-AM.png](https://i.postimg.cc/gcyHqBSK/Screen-Shot-2020-08-22-at-11-58-51-AM.png)](https://postimg.cc/NLMXQbwy)
 
 ## User Story
 

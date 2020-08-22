@@ -4,7 +4,7 @@ This project is a simple calendar application that allows the user to save event
 
 ## Languages & Framework
 
-This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery and Bootstrap.
 
 ## Screenshot of functioning App
 
